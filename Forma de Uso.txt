@@ -1,0 +1,25 @@
+Boton ALTA:
+	Con el Boton alta se da de alta el registro, a la hora de dar el alta revisaque el nombre y el apellido
+	sea letras.
+	y revisa que el DNI tenga 8 Caracteres y sea numerico
+-------------------------------
+BOTON BAJA:
+	el objeto que este seleccionado en la base, puede eliminarse.
+--------------------------
+BOTON BUSCAR:
+	este boto utiliza el campo de entrada "DNI", como campo clave para buscar en la base de datos.
+	una vez que encuentra todo lo relacionado con ese campo, lo muestra en la base de datos.
+------------------
+BOTON MODIFICACION:
+	modifica el registro que esta seleccionado en la base.
+	para un correcto uso, debe oprimirse el boton de "VER FORMU" para llevar la informacion 
+	a que esta en la base de datos, a los campos de entrada. y así modificar el dato
+	que se quiera modificar.
+-----------------
+BOTON VER FORMULARIO:
+	Como comentamos en el boton anterior, lleva la informacion que esta seleccionado
+	en la base de datos, a los campos de entradas de cada item a ingresar a la base.
+----------------
+BOTON BORRAR FORMULARIO
+	Limpia los campos de entrada, para así hacer una entrada nueva, o mismo volver a hacer una consulta 
+	o una modificacion nueva.
