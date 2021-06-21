@@ -16,7 +16,7 @@ from model_prosp import A_b_m_c
 #mail:joa.tm@hotmail.com
 #########################################################
 #App de Vista de la aplicacion.
-#Indice:
+#Indice  hola:
 #       Variables: ----->(Line 28-47)
 #       Frame: ----->(Line 49-56)
 #       Etiquetas: ----->(Line 57-92)
